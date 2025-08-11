@@ -132,7 +132,7 @@
               <p>
                 🚀 Designed & Created by
                 <a
-                  href="https://maximshelepov.com"
+                  href=""
                   class="hover:text-link-color"
                   target="_blank"
                   >Himanshu Rawat</a

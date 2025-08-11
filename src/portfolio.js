@@ -26,7 +26,7 @@ const greeting = {
     "I am a seasoned Senior Front-End Developer with 3.5+ years of experience creating immersive, user-focused digital experiences that merge creativity with functionality. I excel in leveraging modern web technologies to deliver high-performance, scalable solutions, thriving in dynamic environments that demand innovation and adaptability.",
   basedLocation: "Noida, India",
   resumeLink:
-    "https://drive.google.com/file/d/1MoIzqHmXItIBYIhPtdqjSYNOsJR9zQYe/view?usp=drive_link", // recommended: google drive file share link (change to "anyone on the internet can view")
+  "https://drive.google.com/file/d/1enH5kwdVD81UvZ783xV0eyLLoTQHYsJq/view?usp=sharing",
   logo: {
     link: "images/initials.png", // use relative path from  parent directory -> ex: images/image.ext
     custom: true, // takes precedence over image logo and allows for custom HTML logo (./components/Navbar.vue)
