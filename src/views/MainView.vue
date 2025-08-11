@@ -139,7 +139,7 @@
                 >
               </p>
               <a
-                href="https://github.com/money280497"
+                href="https://github.com/Himanshu-199"
                 class="hover:text-link-color"
                 target="_blank"
                 >Code available on Github 👾</a
@@ -165,14 +165,14 @@
           <p>
             🚀 Designed & Created by
             <a
-              href="https://maximshelepov.com"
+              href=""
               class="hover:text-link-color"
               target="_blank"
               >Himanshu Rawat</a
             >
           </p>
           <a
-            href="https://github.com/money280497"
+            href="https://github.com/Himanshu-199"
             class="hover:text-link-color"
             target="_blank"
             >Code available on Github 👾</a
